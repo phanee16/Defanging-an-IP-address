@@ -4,6 +4,4 @@ address = '1.1.1.1'
 print('The result is ',defangIPaddr(address))
 
 
-
-
-<<< Sol : The result is '1[.]1[.]1[.]1' >>>
+/ Sol : The result is '1[.]1[.]1[.]1' /
